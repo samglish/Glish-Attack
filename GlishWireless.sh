@@ -10,7 +10,6 @@ echo ""
 echo "1. Wireless Show"
 echo "2. Wireless Attack"
 echo "3. Wireless Logout"
-
 echo "4. Wireless Connect"
 echo "5. My interface"
 echo ""
