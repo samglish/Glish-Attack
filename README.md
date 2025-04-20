@@ -57,3 +57,4 @@ Une fois connecté, tape des commandes :
 >> cd /home/user
 >> exit
 ```
+password : `Samglish`
