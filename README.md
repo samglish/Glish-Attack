@@ -1,19 +1,19 @@
-# Glish-Attack
-### Voici le plan du script client (victime) qu’on va créer :
+# Glish-Attack (HACKING ETHIQUE)
+#### Voici le plan du script client (victime) qu’on va créer :
 🔁 Fonctions de base
 * Connexion reverse shell
 * Exécution de commandes shell
-  
-🎥 Surveillance
-📸 Capture webcam (photo)
-🎬 Capture vidéo (10 sec)
-🎙️ Enregistrement audio (10 sec via micro)
-⌨️ Espionnage
-⌨️ Keylogger en fond
-💾 Exfiltration de fichiers
-📁 Navigation et lecture de fichiers
 
-### On va utiliser :
+- 🎥 Surveillance
+- 📸 Capture webcam (photo)
+- 🎬 Capture vidéo (10 sec)
+- 🎙️ Enregistrement audio (10 sec via micro)
+- ⌨️ Espionnage
+- ⌨️ Keylogger en fond
+- 💾 Exfiltration de fichiers
+- 📁 Navigation et lecture de fichiers
+
+#### On va utiliser :
 
 ```bash
 pip install opencv-python sounddevice scipy pynput
@@ -24,7 +24,7 @@ pip install opencv-python sounddevice scipy pynput
 * Transfert fichier	`base64, open()`
 
 
-🔐 Fonctionnalités incluses :
+#### 🔐 Fonctionnalités incluses :
 Fonction	Commande côté serveur
 
 * 📸 Webcam (photo)	>> webcam_snap
