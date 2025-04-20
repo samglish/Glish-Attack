@@ -3,6 +3,7 @@
 🔁 Fonctions de base
 * Connexion reverse shell
 * Exécution de commandes shell
+  
 🎥 Surveillance
 📸 Capture webcam (photo)
 🎬 Capture vidéo (10 sec)
@@ -21,3 +22,15 @@ pip install opencv-python sounddevice scipy pynput
 * Microphone	`sounddevice, scipy.io.wavfile`
 * Keylogger	`pynput`
 * Transfert fichier	`base64, open()`
+
+
+🔐 Fonctionnalités incluses :
+Fonction	Commande côté serveur
+
+* 📸 Webcam (photo)	>> webcam_snap
+* 🎥 Vidéo (10s)	>> video_capture
+* 🎙️ Audio (10s)	>> record_audio
+* ⌨️ Keylogger	>> get_keys
+* 📂 Télécharger fichier >> 	download /chemin/fichier
+* 📁 Changer de dossier >> 	cd chemin
+* ❌ Fermer la connexion >>	exit
