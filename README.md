@@ -1,4 +1,7 @@
 # Glish-Attack (HACKING ETHIQUE)
+
+## Rmq:Prendre le contrôle de la caméra sans autorisation est illégal 
+
 #### Voici le plan du script client (victime) qu’on va créer :
 🔁 Fonctions de base
 * Connexion reverse shell
